@@ -1,0 +1,17 @@
+{
+  "name": "VTUI",
+  "version": "1.0.0",
+  "description": "VegeTable UI",
+  "main": "index.js",
+  "repository": "https://github.com/vt-dev-team/vtui",
+  "author": "vt-dev-team",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "sass": "^1.37.0"
+  },
+  "scripts":{
+    "dev": "sass --watch src:dist --style expanded",
+    "build": "sass src:dist --style compressed"
+  }
+}

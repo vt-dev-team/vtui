@@ -1,0 +1,17 @@
+/*!
+ * VegeTable UI
+ * https://github.com/vt-dev-team/vtui
+ * 
+ * Copyright 2021 ve-dev-team
+ * Released under MIT license
+ * http://opensource.org/licenses/MIT
+ *
+ */body{background-color:#f9fafc}h1,h2,h3,h4,h5,h6{font-weight:300;font-family:Texta-book,Open Sans,Seravek,Segoe UI,Verdana,PingFang SC,Hiragino Sans GB,Lantinghei SC,Microsoft Yahei,Consoles,WenQuanYi Micro Hei,sans}/*!
+ * VegeTable UI Cards
+ * https://github.com/vt-dev-team/vtui
+ * 
+ * Copyright 2021 ve-dev-team
+ * Released under MIT license
+ * http://opensource.org/licenses/MIT
+ *
+ */.vt.card{background-color:#fcfdfe;box-shadow:0 2px 6px rgba(0,0,0,.2);transition:box-shadow .2s;padding:10px 3px}.vt.card .card-body{padding:.875rem}.vt.card .card-body .card-head{font-size:1.563rem;font-weight:300}.card:hover{box-shadow:0 5px 8px rgba(0,0,0,.2)}/*# sourceMappingURL=main.css.map */

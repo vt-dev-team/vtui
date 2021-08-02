@@ -1,0 +1,26 @@
+/*!
+ * VegeTable UI
+ * https://github.com/vt-dev-team/vtui
+ * 
+ * Copyright 2021 ve-dev-team
+ * Released under MIT license
+ * http://opensource.org/licenses/MIT
+ *
+ */
+
+@import "./common/vars";
+body {
+    background-color: $bg-color;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: 300;
+    font-family: Texta-book, Open Sans, Seravek, Segoe UI, Verdana, PingFang SC, Hiragino Sans GB, Lantinghei SC, Microsoft Yahei, Consoles, WenQuanYi Micro Hei, sans;
+}
+
+@import "./components/card";
